@@ -4,7 +4,7 @@ This repository contains a random assortment of Java coding projects I have done
 ## Bim360RestAPI.java
 This was a helper script I wrote to interact with the Bim360 API, the documentation can be found here: https://forge.autodesk.com/en/docs/bim360/v1/reference/http/
 ## Crypto.java
-A basic utility for encyrpting and decrypting text
+A basic utility for encyrpting and decrypting text.
 ## Db.java and MyDb.java
 2 classes used to simplify the interaction with a SQLServer database. Helps with both DML and DDL changes.
 ## Gitty.java
